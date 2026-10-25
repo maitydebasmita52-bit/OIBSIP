@@ -30,8 +30,10 @@ Matplotlib - Data visualization,
 Seaborn - Statistical visualization,
 Jupyter Notebook - Analysis and documentation,
 
-Project Files
+Project Files:
+
 retail_sale.ipynb - Jupyter  Notebook containing the analysis, visualizations, and observations.
+
 retail_sales__dataset.csv - Dataset used for the analysis.
 
 
