@@ -4,6 +4,7 @@ PROJECT OVERVIEW:
 This project focuses on Exploratory Data Analysis (EDA) of retail sales data using Python. The objective is to identify sales trends, understand customer purchasing behavior , analyze product performance , and generate actionable business insights.
 
 OBJECTIVES:
+
 [ ] Load dataset and perform initial inspection: shape, column dtypes, null value check
 
 [ ] Descriptive statistics: mean, median, mode, standard deviation for all numerical columns
@@ -22,12 +23,12 @@ OBJECTIVES:
 
 [ ] Conclusion section: at least 3 specific, actionable business recommendations based on findings
 
-Tools and Technologies
-Python-Data analysis and programming
-Pandas-Data cleaning and manipulation
-Matplotlib-Data visualization
-Seaborn- Statistical visualization
-Jupyter Notebook-Analysis and documentation
+Tools and Technologies:
+Python - Data analysis and programming,
+Pandas - Data cleaning and manipulation,
+Matplotlib - Data visualization,
+Seaborn - Statistical visualization,
+Jupyter Notebook - Analysis and documentation,
 
 Project Files
 retail_sale.ipynb - Jupyter  Notebook containing the analysis, visualizations, and observations.
